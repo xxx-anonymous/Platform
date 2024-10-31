@@ -5,4 +5,6 @@
 
 仅需下载：data2.pickle
 
-然后将data2.pickle移动到
+然后将data2.pickle移动到：Platform/dataset/TSP-data 目录下
+
+最后，根据作品所提交的《测试报告》中的“1.3.2代码运行流程”部分的描述，即可运行
